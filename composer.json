@@ -1,0 +1,13 @@
+{
+    "name": "gebar/example",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Georgiy Baranov",
+            "email": "gebar.personal@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.6"
+    }
+}
